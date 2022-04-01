@@ -1,3 +1,3 @@
-### I am DONG YUANWAI 👋
+### I am Dong Yuanwai 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongyuanwai&show_icons=true)
+<a align="center" href="https://github.com/dongyuanwai"><img  src="https://github-readme-stats.vercel.app/api?username=dongyuanwai&show_icons=true" /></a>
