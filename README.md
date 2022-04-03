@@ -1,7 +1,7 @@
 ## Hey! Look here 👋
 
 I'm **Dong Yuanwai**, a Front end development.
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=dongzhiyang&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=dongyuanwai&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 
 
 -   🌏 I come from China
@@ -28,7 +28,7 @@ I'm **Dong Yuanwai**, a Front end development.
 
 ## Form
 
-[![Raveena's github activity graph](https://activity-graph.herokuapp.com/graph?username=dongzhiyang&theme=minimal)](https://github.com/dongzhiyang)
+[![Raveena's github activity graph](https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=minimal)](https://github.com/dongyuanwai)
 
 <img align="center" src="./images/github-contribution-grid-snake.svg"></img>
 
