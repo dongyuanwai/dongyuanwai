@@ -1,16 +1,18 @@
-## Hey! Look here 👋
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hey! here
 
-I'm **Dong Yuanwai**, a Front end development.
+### I'm **Dong Yuanwai**, a Front end development.
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=dongyuanwai&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 
 
 -   🌏 I come from China
 -   🛠  I’m currently working use Vue, JavaScript
--   💬 Ask me about anything related Vue
+-   💬 Ask me about anything related Program
 -   🌱 I’m currently learning JS and English
 -   🔭 Doing something about open source
 -   📝 I regulary write articles on my blog.
 -   📫 Reach me 
+
+
 ## 🚀 Language And Tools
 
 <div align="center" style="margin-top:20px">
