@@ -29,8 +29,8 @@
 </div>
 
 ## Form
-
-[![Raveena's github activity graph](https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=minimal)](https://github.com/dongyuanwai)
+<!-- minimal -->
+[![Raveena's github activity graph](https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=dark)](https://github.com/dongyuanwai)
 
 <div align="center" style="margin-top:20px">
 	<img align="center" src="./images/github-contribution-grid-snake.svg"></img>
