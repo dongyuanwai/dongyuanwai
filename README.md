@@ -8,7 +8,7 @@
 -   💬 Ask me about anything related Program
 -   🌱 I’m currently learning JS and English
 -   🔭 Doing something about open source
--   📝 I regulary write articles on my blog.
+-   📝 I regulary write articles on my blog
 -   📫 Reach me 
 
 
