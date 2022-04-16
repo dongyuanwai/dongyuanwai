@@ -9,6 +9,7 @@
 -   🌱 I’m currently learning JS and English
 -   🔭 Doing something about open source
 -   📝 I regulary write articles on my blog
+-   🚌 I like take the bus to browse the city scenery
 -   📫 Reach me @me
 
 
