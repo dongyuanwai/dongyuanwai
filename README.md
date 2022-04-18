@@ -10,7 +10,7 @@
 -   🔭 Doing something about open source
 -   📝 I regulary write articles on my blog
 -   🚌 I like take the bus to browse the city scenery
--   📫 Reach me @me
+-   📫 who can tell me how make money 
 
 
 ## 🚀 Language And Tools
