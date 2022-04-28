@@ -30,7 +30,7 @@
 
 ## Form
 <!-- minimal -->
-[![Raveena's github activity graph](https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=minimal)](https://github.com/dongyuanwai)
+[![Dong Yuanwai's github activity graph](https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=minimal)](https://github.com/dongyuanwai)
 
 <div align="center" style="margin-top:20px">
 	<img align="center" src="./images/github-contribution-grid-snake.svg"></img>
