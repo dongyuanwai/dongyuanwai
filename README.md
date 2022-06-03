@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hey! here
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">Hey! here
 
 ### I'm **Dong Yuanwai**, a Front end developmenter.
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dongyuanwai&theme=buefy&show_icons=true">](https://metrics.lecoq.io/about/dongyuanwai)
