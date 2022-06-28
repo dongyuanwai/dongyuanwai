@@ -16,7 +16,7 @@
 
 ## 🚀 Language And Tools
 
-<div align="center" style="margin-top:20px">
+<div align="center" >
 	<img src="./images/html.svg" width="40" height="40" alt="html" />
 	<img src="./images/css.svg" width="40" height="40" alt="css" />
 	<img src="./images/javascript.svg" width="40" height="40" alt="javascript" />
