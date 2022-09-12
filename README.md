@@ -11,7 +11,7 @@
 -   📝 I regulary write articles on my blog
 -   🚌 I like take the bus to browse the city scenery
 -   📫 relation me yuanwaidong@163.com
--   💬 公众号：oldCode
+-   💬 WeChat Official Accounts：oldCode
 
 
 ## 🚀 Language And Tools
