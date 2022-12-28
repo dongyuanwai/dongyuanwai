@@ -3,7 +3,7 @@
 ### I'm **Dong Yuanwai**, a frontend developer from China.
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dongyuanwai&theme=buefy&show_icons=true">](https://metrics.lecoq.io/about/dongyuanwai)
 
--   🌏 I come from China(俺是一个中国人)
+-   🌏 I’m come from China
 -   🛠  I’m currently working use Vue, JavaScript
 -   💬 Ask me about anything related Program
 -   🌱 I’m currently learning JS and English
