@@ -4,7 +4,7 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dongyuanwai&theme=buefy&show_icons=true">](https://metrics.lecoq.io/about/dongyuanwai)
 
 -   🌏 I’m come from China
--   🛠  I’m currently working use Vue, JavaScript
+-   🛠  I’m currently working use Next.js and uni-app
 -   💬 Ask me about anything related Program
 -   🌱 I’m currently learning JS and English
 -   🔭 Doing something about open source
