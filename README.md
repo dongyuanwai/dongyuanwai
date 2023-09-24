@@ -6,7 +6,7 @@
 -   🌏 I’m come from China
 -   🛠  I’m currently working use Next.js and uni-app
 -   💬 Ask me about anything related Program
--   🌱 I’m currently learning JS and English
+-   🌱 I’m currently learning about Web3 and English
 -   🔭 Doing something about open source
 -   📝 I regulary write articles on my blog
 -   🚌 I like take the bus to browse the city scenery
